@@ -1,0 +1,14 @@
+<?php
+
+class Settings
+{
+  const DB = 'ote_dev';
+  const DB_USER = '';
+  const DB_PWD = '';
+  const API_HOST = 'http://api.dev';
+  const API_USER_ID = 22;
+  const API_USER = 'book-ote';
+  const API_PWD = '';
+  const HOSTEL_HOPS_ID = 18; // Property ID
+  const HOSTEL_HOPS_ELITE_ID = 24;
+}
